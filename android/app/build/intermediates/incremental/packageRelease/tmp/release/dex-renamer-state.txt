@@ -1,0 +1,4 @@
+#Fri Mar 18 11:54:33 EET 2022
+base.0=/Users/nikitatishakov/github/timer1/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

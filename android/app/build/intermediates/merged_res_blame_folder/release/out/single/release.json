@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_triangle.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/build/generated/res/react/release/drawable-mdpi/assets_triangle.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nikitatishakov/github/timer1/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nikitatishakov/github/timer1/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
